@@ -1,0 +1,19 @@
+{
+  "cliente": "nombre cliente",
+  "aeropuerto": "nombre de aeropuerto",
+  "saldosMovimientos": [
+    {
+       "fecha": "16/Oct/2022",
+        "monto": "$800.00",
+        "tipoMovimiento": "Recarga de tarjeta - MTY",
+        "esCargo": "false"
+    },
+    {
+       "fecha": "17/Oct/2022",
+        "monto": "-$100.00",
+        "tipoMovimiento": "Pago de estacionamiento",
+        "esCargo": "true"
+    }
+  ],
+  "totalRowCount": 2
+}
